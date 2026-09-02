@@ -1,40 +1,191 @@
-![MasterHead](https://github.com/sudiptoroy12/sudiptoroy12/blob/c612ba26352bcab57d3852a8e9dae1e8f04263a2/file_000000004348821181869fe0ffedc21b.png)
-<h1 align="center">Hi 👋, I'm Sudipto Roy</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudiptoroy12&label=Profile%20views&color=0e75b6&style=flat" alt="sudiptoroy12" /> </p>
-
-- 🌱 I’m currently learning **Next.js, MERN**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-five-theta-l0e353kdnr.vercel.app/](https://portfolio-five-theta-l0e353kdnr.vercel.app/)
-
-- 💬 Ask me about **react, javascript and nextJs**
-
-- 📫 How to reach me **sudiptoroy1521@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Mrl9t8PBuBfH03bQvu18bvdXZJFVrpWw/view?usp=sharing](https://drive.google.com/file/d/1Mrl9t8PBuBfH03bQvu18bvdXZJFVrpWw/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sudipto-roy-82602415b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudipto-roy-82602415b" height="30" width="40" /></a>
-<a href="https://fb.com/shuvoo.5055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuvoo.5055" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/sudiptoroy12/sudiptoroy12/blob/c612ba26352bcab57d3852a8e9dae1e8f04263a2/file_000000004348821181869fe0ffedc21b.png" alt="Sudipto Roy Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sudipto+Roy!;+Full+Stack+developer;+JavaScript+Enthusiast;+Interested+in+DSA;" />
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudiptoroy12&show_icons=true&locale=en&layout=compact" alt="sudiptoroy12" /></p>
+<p align="center">
+  <a href="https://github.com/sudiptoroy12">
+    <img src="https://komarev.com/ghpvc/?username=sudiptoroy12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/sudiptoroy12?tab=followers">
+    <img src="https://img.shields.io/github/followers/sudiptoroy12?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/sudiptoroy12?tab=repositories">
+    <img src="https://img.shields.io/github/stars/sudiptoroy12?label=Stars&style=flat" alt="GitHub Stars" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudiptoroy12&show_icons=true&locale=en" alt="sudiptoroy12" /></p>
+---
 
+## 👨‍💻 About Me
 
-  ![snake gif](https://github.com/sudiptoroy12/sudiptoroy12/blob/output/github-snake.svg)
+<p align="center">
+  <strong>A passionate Full Stack MERN Developer from Bangladesh 🇧🇩</strong>
+</p>
 
+* 🌱 Currently learning **Next.js, MERN Stack & TypeScript**
+* 💻 Building projects with **React, Node.js, Express & MongoDB**
+* 🧠 Interested in **Data Structures & Algorithms**
+* 🚀 Focused on becoming a better **Full Stack Developer**
+* 💬 Ask me about **React, JavaScript, Node.js, Express & Next.js**
+* 🎯 Always trying to write cleaner and more maintainable code
+* ⚡ Fun fact: **First, I write code. Then, I Google why it doesn't work. 😄**
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudiptoroy12&" alt="sudiptoroy12" /></p>
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="mailto:sudiptoroy1521@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudipto-roy-82602415b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-five-theta-l0e353kdnr.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/sudiptoroy12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages, Frameworks & Tools
+
+### 💻 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap" alt="Frontend Skills" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
+</p>
+
+### 🔧 Tools & Others
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,python,c,java" alt="Tools and Languages" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sudiptoroy12&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍔 Food E-Commerce
+
+A full-stack food e-commerce application built with modern web technologies.
+
+**Tech Stack**
+
+`Next.js` `Tailwind CSS` `MongoDB`
+
+</td>
+
+<td width="50%">
+
+### 🩺 Doctor Appointment
+
+A web application for managing doctor appointments and related information.
+
+**Tech Stack**
+
+`React` `JavaScript` `Tailwind CSS`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI Blog Generator
+
+An API-based application that uses AI to generate blog content.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `Groq API`
+
+</td>
+
+<td width="50%">
+
+### 📝 Student Management API
+
+A REST API for managing students with authentication and database integration.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `Mongoose`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/sudiptoroy12?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/sudiptoroy12/sudiptoroy12/blob/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+# 📌 What I'm Currently Working On
+
+```text
+Frontend       → React.js • Next.js • Tailwind CSS
+Backend        → Node.js • Express.js
+Database       → MongoDB • Mongoose
+Programming    → JavaScript • TypeScript
+Learning       → DSA • Next.js • Full Stack Development
+Goal           → Become a strong Full Stack MERN Developer
+```
+
+---
+
+# 💡 Developer Mindset
+
+> **"Code. Break. Debug. Learn. Repeat."**
+
+I believe every bug is an opportunity to understand something better.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
+
+<p align="center">
+  <strong>⭐ Thanks for visiting my profile!</strong>
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together 🚀</i>
+</p>
