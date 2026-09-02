@@ -31,5 +31,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudiptoroy12&show_icons=true&locale=en" alt="sudiptoroy12" /></p>
 
+
+  ![snake gif](https://github.com/sudiptoroy12/sudiptoroy12/blob/output/github-snake-dark.svg)
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudiptoroy12&" alt="sudiptoroy12" /></p>
 
