@@ -25,6 +25,7 @@
 <p align="center">
   <strong>A passionate Full Stack MERN Developer from Bangladesh 🇧🇩</strong>
 </p>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
 * 🌱 Currently learning **Next.js, MERN Stack & TypeScript**
 * 💻 Building projects with **React, Node.js, Express & MongoDB**
