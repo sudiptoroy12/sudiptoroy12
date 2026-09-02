@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/sudiptoroy12/sudiptoroy12/blob/c612ba26352bcab57d3852a8e9dae1e8f04263a2/file_000000004348821181869fe0ffedc21b.png)]
+![MasterHead](https://github.com/sudiptoroy12/sudiptoroy12/blob/c612ba26352bcab57d3852a8e9dae1e8f04263a2/file_000000004348821181869fe0ffedc21b.png)
 <h1 align="center">Hi 👋, I'm Sudipto Roy</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudiptoroy12&show_icons=true&locale=en" alt="sudiptoroy12" /></p>
 
 
-  ![snake gif](https://github.com/sudiptoroy12/sudiptoroy12/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/sudiptoroy12/sudiptoroy12/blob/output/github-snake.svg)
 
 
 
